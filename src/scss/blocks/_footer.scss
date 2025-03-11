@@ -1,7 +1,11 @@
 .footer {
+	display: flex;
+	justify-content: left;
+	text-align: left;
 	background-color: rgb(62, 62, 62);
-	padding: 50px 0;
-	font-size: 32px;
+	padding: 10px 0;
+	font-size: 16px;
+	font-weight: 700;
     color: #fff;
 
 	h1 {
@@ -12,3 +16,4 @@
 		font-size: 26px;
 	}
 }
+
