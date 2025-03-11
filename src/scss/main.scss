@@ -8,3 +8,10 @@
 
 /* Blocks */
 @import "./blocks/*.scss";
+
+
+img{
+    margin: auto;
+    display: block; 
+    width: 100%; 
+}
