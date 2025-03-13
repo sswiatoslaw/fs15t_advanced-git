@@ -1,5 +1,6 @@
 .footer {
 	display: flex;
+
 	justify-content: left;
 	text-align: left;
 	background-color: rgb(62, 62, 62);
@@ -15,5 +16,14 @@
 	@media (max-width: 1200px) {
 		font-size: 26px;
 	}
+}
+
+=======
+	justify-content: right;
+	font-family: Montserrat;
+	font-weight: 700;
+	font-size: 16px;
+   background-color: white;
+   color: black;
 }
 
